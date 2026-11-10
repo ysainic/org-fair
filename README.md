@@ -1,3 +1,5 @@
+**Live site:** https://ysainic.github.io/org-fair/
+
 ## Explanations (E1 to E8)
 
 **E1**
